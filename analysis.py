@@ -1,0 +1,7 @@
+# analysis.py
+import sys
+
+x = int(sys.argv[1])
+print("Input:", x)
+print("Squared:", x*x)
+
